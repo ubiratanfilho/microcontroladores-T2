@@ -44,7 +44,6 @@ Rode o script que está na pasta ```/src```  com: ```python3 scr/$FOLDER_NAME$/$
 ### 4.2 Vídeo
 
 - https://youtu.be/zMmiK-DVZwM
-![alt text](./content/IMG_0036.MOV)
 
 ## 5. Integrantes
 
