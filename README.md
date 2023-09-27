@@ -13,6 +13,7 @@ Este projeto depende das seguintes bibliotecas:
 - NumPy
 - SciPy
 - Matplotlib
+- RPi.GPIO
 
 ## 3. Como rodar
 
@@ -28,7 +29,7 @@ pip3 install rpi.gpio
 
 ### 3.2 Rodar o script
 
-Rode o script que está na pasta ```/src```  com: ```python3 scr/$FOLDER_NAME$/$SCRIPT_NAME$.py```
+Rode o script que está na pasta ```/src```  com: ```python3 scr/face-detection.py```
 
 ## 4. Demostração do projeto
 
