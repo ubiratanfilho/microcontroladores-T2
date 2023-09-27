@@ -43,8 +43,7 @@ Rode o script que está na pasta ```/src```  com: ```python3 scr/$FOLDER_NAME$/$
 
 ### 4.2 Vídeo
 
-
-!(Video demonstração)[https://youtu.be/zMmiK-DVZwM]
+- https://youtu.be/zMmiK-DVZwM
 
 ## 5. Integrantes
 
