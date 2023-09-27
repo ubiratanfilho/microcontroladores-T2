@@ -33,18 +33,18 @@ Rode o script que está na pasta ```/src```  com: ```python3 scr/$FOLDER_NAME$/$
 
 ### 4.1 Fotos
 
-![[rasp.jpeg]]
+![alt text](./rasp.jpeg)
 
-![[rasp2.jpeg]]
+![alt text](./rasp2.jpeg)
 
-![[webcam.jpeg]]
+![alt text](./webcam.jpeg)
 
-![[webcam2.jpeg]]
+![alt text](./webcam2.jpeg)
 
 ### 4.2 Vídeo
 
 
-![https://youtu.be/zMmiK-DVZwM]
+!(Video demonstração)[https://youtu.be/zMmiK-DVZwM]
 
 ## 5. Integrantes
 
