@@ -23,6 +23,7 @@ sudo apt install libopencv-dev
 sudo apt install libatlas-base-dev
 pip3 install Pillow numpy scipy matplotlib
 pip3 install opencv-python opencv-contrib-python
+pip3 install rpi.gpio
 ```
 
 ### 3.2 Rodar o script
